@@ -1,0 +1,17 @@
+D:\口算\口算生成\bin\Release\口算生成.exe.config
+D:\口算\口算生成\bin\Release\口算生成.exe
+D:\口算\口算生成\bin\Release\口算生成.pdb
+D:\口算\口算生成\bin\Release\DocumentFormat.OpenXml.dll
+D:\口算\口算生成\bin\Release\DocumentFormat.OpenXml.Framework.dll
+D:\口算\口算生成\bin\Release\ReaLTaiizor.dll
+D:\口算\口算生成\bin\Release\DocumentFormat.OpenXml.xml
+D:\口算\口算生成\bin\Release\DocumentFormat.OpenXml.Framework.xml
+D:\口算\口算生成\bin\Release\ReaLTaiizor.xml
+D:\口算\口算生成\obj\Release\口算生成.csproj.AssemblyReference.cache
+D:\口算\口算生成\obj\Release\口算生成.Form1.resources
+D:\口算\口算生成\obj\Release\口算生成.Properties.Resources.resources
+D:\口算\口算生成\obj\Release\口算生成.csproj.GenerateResource.cache
+D:\口算\口算生成\obj\Release\口算生成.csproj.CoreCompileInputs.cache
+D:\口算\口算生成\obj\Release\口算生成.csproj.Up2Date
+D:\口算\口算生成\obj\Release\口算生成.exe
+D:\口算\口算生成\obj\Release\口算生成.pdb

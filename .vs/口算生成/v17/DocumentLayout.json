@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|d:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|\u53E3\u7B97\u751F\u6210||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|solutionrelative:app.manifest||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F25D6FD-3396-4640-86B6-7BC2F9FDB764}|\u53E3\u7B97\u751F\u6210.csproj|d:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "\u53E3\u7B97\u751F\u6210",
+              "DocumentMoniker": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\\u53E3\u7B97\u751F\u6210.csproj",
+              "RelativeDocumentMoniker": "\u53E3\u7B97\u751F\u6210.csproj",
+              "ToolTip": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\\u53E3\u7B97\u751F\u6210.csproj",
+              "RelativeToolTip": "\u53E3\u7B97\u751F\u6210.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-16T15:09:33.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "app.manifest",
+              "DocumentMoniker": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\app.manifest",
+              "RelativeDocumentMoniker": "app.manifest",
+              "ToolTip": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\app.manifest",
+              "RelativeToolTip": "app.manifest",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001203|",
+              "WhenOpened": "2025-01-16T14:37:30.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAowJsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:35:20.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAH8BAAAAAAAAAAAAAIgBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T14:24:28.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\\u53E3\u7B97\\\u53E3\u7B97\u751F\u6210\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T13:58:50.302Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
